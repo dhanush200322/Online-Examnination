@@ -12,7 +12,7 @@
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=github-actions)](https://github.com/)
 [![Responsive](https://img.shields.io/badge/Responsive-100%25_Mobile_Ready-blueviolet?style=for-the-badge)](https://github.com/)
 
-[Live Demo](https://YOUR-VERCEL-LINK.vercel.app) · [Explore Features](#-features) · [Installation](#-installation) · [Report Bug](https://github.com/dhanush200322/Online-Examnination/issues)
+[Live Demo](https://online-examnination.vercel.app/) · [Explore Features](#-features) · [Installation](#-installation) · [Report Bug](https://github.com/dhanush200322/Online-Examnination/issues)
 
 ---
 
