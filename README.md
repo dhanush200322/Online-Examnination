@@ -12,7 +12,7 @@
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=github-actions)](https://github.com/)
 [![Responsive](https://img.shields.io/badge/Responsive-100%25_Mobile_Ready-blueviolet?style=for-the-badge)](https://github.com/)
 
-[Live Demo](https://YOUR-VERCEL-LINK.vercel.app) · [Explore Features](#-features) · [Installation](#-installation) · [Report Bug](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/issues)
+[Live Demo](https://YOUR-VERCEL-LINK.vercel.app) · [Explore Features](#-features) · [Installation](#-installation) · [Report Bug](https://github.com/dhanush200322/Online-Examnination/issues)
 
 ---
 
@@ -196,7 +196,7 @@ Make sure you have Node.js installed on your system:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+git clone https://github.com/dhanush200322/Online-Examnination.git
 
 # 2. Navigate to the project directory
 cd 04-online-examination-system
@@ -356,10 +356,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 👨‍💻 Author & Acknowledgments
 
 **Online Examination System Project**
-* **GitHub**: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-* **LinkedIn**: [Your Name](https://linkedin.com/in/YOUR_PROFILE)
-* **Portfolio**: [your-portfolio.com](https://YOUR-PORTFOLIO-LINK.com)
-* **Email**: `your.email@example.com`
+* **GitHub**: [@dhanush200322](https://github.com/dhanush200322)
+* **Repository**: [Online-Examnination](https://github.com/dhanush200322/Online-Examnination)
 
 <div align="center">
 
